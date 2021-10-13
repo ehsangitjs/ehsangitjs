@@ -1,4 +1,4 @@
 <Github>
 - 👋 Hi, I’m @ehsangitjs
-- 📫 e.valizadehnavi@gmail.com
+- 📫 ehsan.dev77@gmail.com
 </Github>
